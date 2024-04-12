@@ -1,0 +1,2 @@
+# JatziPyhton
+Yksinkertaistettu versio noppapelistä
